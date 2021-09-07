@@ -29,7 +29,6 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 
 ## Icons
 
-+ http://www.pixellove.com/free-ios-and-android-icons
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
